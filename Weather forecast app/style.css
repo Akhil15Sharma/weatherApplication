@@ -1,0 +1,11 @@
+*{
+    color:black;
+}
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkTvBZw1KwbpnuVLtYVeVGu7BhEFdEbAChlg&usqp=CAU);
+}
+.container-fluid{
+    font-weight: bold;
+    font-family: sans-serif;
+}
